@@ -1,0 +1,8 @@
+#To find branch name - git branch
+#To change branch name = git branch - M(new name)
+#To know how many branches are there - git branch -a
+#To switch to other branch - git checkout (new branch name)
+#To diff two branches - git diff(new branch name)
+#To merge two branches - git merge(new branch name) (then use - git push origin main)
+
+#Pull request- ask permission to main from branch 
