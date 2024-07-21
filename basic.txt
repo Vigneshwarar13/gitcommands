@@ -1,0 +1,40 @@
+#To add folder(rep) in vs code - git clone(link)
+
+#Pushing file from visual studio code to GitHub
+Insert-> Add -> Commit ->Push
+
+1.Create file (test.txt) in vs code
+2.git add test.txt
+3.git commit m "created test.txt"
+4.git push origin main 
+
+#To modify
+
+1.git add test.txt
+2.git commit m "modified test.txt"
+3.git push origin main 
+
+#To delete
+
+1.Delete file (test.txt) in vs code
+2.git add test.txt
+3.git commit m "deleted test.txt"
+4.git push origin main 
+
+#To check Status - git status
+
+#Pulling file from GitHub to visual studio code - git pull(It used to pull any modification made in GitHub to VS code)  
+
+#To go inside a folder - cd (name of the folder)
+#To go outside a folder - cd..
+
+#To add .git in new folder - git init
+
+#To add multiple files  
+
+1.Create number of files (demo.html,style.css) in vs code
+2.git add .
+3.git commit m "created demo.html,style.css"
+4.Create repository in git
+5.git remote add origin (link)
+6.git push origin(branch name)
